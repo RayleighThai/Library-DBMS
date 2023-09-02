@@ -1,5 +1,5 @@
 # Library-Database-Project
-Project integrate MySQL into Apache Netbeans IDE GUI for better user experience.
+Class project integrate MySQL into Apache Netbeans IDE GUI for better user experience.
 
 Necessary tools, library and frameworks need: 
  - Apache NetBeans IDE
